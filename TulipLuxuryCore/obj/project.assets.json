@@ -129,11 +129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxuryCore/TulipLuxuryCore.csproj",
+      "projectUniqueName": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxuryCore/TulipLuxuryCore.csproj",
       "projectName": "TulipLuxuryCore",
-      "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxuryCore/TulipLuxuryCore.csproj",
+      "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxuryCore/TulipLuxuryCore.csproj",
       "packagesPath": "/Users/thebluehood/.nuget/packages/",
-      "outputPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxuryCore/obj/",
+      "outputPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxuryCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thebluehood/.nuget/NuGet/NuGet.Config"
@@ -148,17 +148,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/TulipLuxury.Data.csproj": {
-              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/TulipLuxury.Data.csproj"
+            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Data/TulipLuxury.Data.csproj": {
+              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Data/TulipLuxury.Data.csproj"
             },
-            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj": {
-              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj"
+            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj": {
+              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj"
             },
-            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/TulipLuxury.Models.csproj": {
-              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/TulipLuxury.Models.csproj"
+            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Models/TulipLuxury.Models.csproj": {
+              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Models/TulipLuxury.Models.csproj"
             },
-            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj": {
-              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj"
+            "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj": {
+              "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj"
             }
           }
         }

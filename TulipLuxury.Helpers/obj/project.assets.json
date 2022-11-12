@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj",
+      "projectUniqueName": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj",
       "projectName": "TulipLuxury.Helpers",
-      "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj",
+      "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Helpers/TulipLuxury.Helpers.csproj",
       "packagesPath": "/Users/thebluehood/.nuget/packages/",
-      "outputPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/",
+      "outputPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Helpers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thebluehood/.nuget/NuGet/NuGet.Config"

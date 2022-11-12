@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj",
+      "projectUniqueName": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj",
       "projectName": "TulipLuxury.ViewModel",
-      "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj",
+      "projectPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.ViewModel/TulipLuxury.ViewModel.csproj",
       "packagesPath": "/Users/thebluehood/.nuget/packages/",
-      "outputPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.ViewModel/obj/",
+      "outputPath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.ViewModel/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thebluehood/.nuget/NuGet/NuGet.Config"

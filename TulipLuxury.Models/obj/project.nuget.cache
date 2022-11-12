@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YpbkP8Mk5lTSMRuASPzTBwrM/2fmYWllkTrUUrZKPsq8o45MOD/X9S2BjER+z0M1yZ3tI97CDcQCkhc5umTHog==",
+  "dgSpecHash": "ZSSY9cfTlwkZe7qKa/V+M0M5MX/3TAwIn0YDtHkJXH5Vbsc6FuX0pFQAQvONcE7tLe6/3LcwcKGFrrqd0Ls3Sg==",
   "success": true,
-  "projectFilePath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/TulipLuxury.Models.csproj",
+  "projectFilePath": "/Users/thebluehood/Desktop/DecagonC#/TulipLuxuryAutos/TulipLuxury.Models/TulipLuxury.Models.csproj",
   "expectedPackageFiles": [
     "/Users/thebluehood/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "/Users/thebluehood/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
