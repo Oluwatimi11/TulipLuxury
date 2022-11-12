@@ -1,0 +1,17 @@
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.csproj.AssemblyReference.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.AssemblyInfoInputs.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.AssemblyInfo.cs
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.csproj.CoreCompileInputs.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Data.deps.json
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Data.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Data.pdb
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Helpers.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Models.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.ViewModel.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Helpers.pdb
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.ViewModel.pdb
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/bin/Debug/netcoreapp3.1/TulipLuxury.Models.pdb
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.csproj.CopyComplete
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Data/obj/Debug/netcoreapp3.1/TulipLuxury.Data.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulipLuxury", "TulipLuxury\TulipLuxury.csproj", "{823DD836-EB3E-44A9-9109-C0B634406871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulipLuxuryCore", "TulipLuxuryCore\TulipLuxuryCore.csproj", "{82C8970E-7A4B-4FC2-B586-D1D0B5DCCCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulipLuxury.Helpers", "TulipLuxury.Helpers\TulipLuxury.Helpers.csproj", "{FAE02B29-8E1A-4BCD-AEE0-BDEA8F79A4E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulipLuxury.Data", "TulipLuxury.Data\TulipLuxury.Data.csproj", "{40596D05-D2E0-4D5B-BD53-F60658D7BEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulipLuxury.Models", "TulipLuxury.Models\TulipLuxury.Models.csproj", "{175A393A-540F-4F5B-AFCF-DE9724C77622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TulipLuxury.ViewModel", "TulipLuxury.ViewModel\TulipLuxury.ViewModel.csproj", "{8E0F2665-B86B-4A08-87F8-7E66221732A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823DD836-EB3E-44A9-9109-C0B634406871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823DD836-EB3E-44A9-9109-C0B634406871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823DD836-EB3E-44A9-9109-C0B634406871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823DD836-EB3E-44A9-9109-C0B634406871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C8970E-7A4B-4FC2-B586-D1D0B5DCCCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C8970E-7A4B-4FC2-B586-D1D0B5DCCCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C8970E-7A4B-4FC2-B586-D1D0B5DCCCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C8970E-7A4B-4FC2-B586-D1D0B5DCCCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE02B29-8E1A-4BCD-AEE0-BDEA8F79A4E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE02B29-8E1A-4BCD-AEE0-BDEA8F79A4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE02B29-8E1A-4BCD-AEE0-BDEA8F79A4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE02B29-8E1A-4BCD-AEE0-BDEA8F79A4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40596D05-D2E0-4D5B-BD53-F60658D7BEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40596D05-D2E0-4D5B-BD53-F60658D7BEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40596D05-D2E0-4D5B-BD53-F60658D7BEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40596D05-D2E0-4D5B-BD53-F60658D7BEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175A393A-540F-4F5B-AFCF-DE9724C77622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175A393A-540F-4F5B-AFCF-DE9724C77622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175A393A-540F-4F5B-AFCF-DE9724C77622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175A393A-540F-4F5B-AFCF-DE9724C77622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0F2665-B86B-4A08-87F8-7E66221732A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0F2665-B86B-4A08-87F8-7E66221732A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0F2665-B86B-4A08-87F8-7E66221732A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0F2665-B86B-4A08-87F8-7E66221732A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {438366E5-68A1-4430-95D8-2C95435FACCD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Contracts\" />
+    <None Remove="Implementations\" />
+    <None Remove="Newtonsoft.Json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Implementations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TulipLuxury.Models\TulipLuxury.Models.csproj" />
+    <ProjectReference Include="..\TulipLuxury.ViewModel\TulipLuxury.ViewModel.csproj" />
+    <ProjectReference Include="..\TulipLuxury.Helpers\TulipLuxury.Helpers.csproj" />
+    <ProjectReference Include="..\TulipLuxury.Data\TulipLuxury.Data.csproj" />
+  </ItemGroup>
+</Project>

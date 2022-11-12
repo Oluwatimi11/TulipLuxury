@@ -1,0 +1,10 @@
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/bin/Debug/netcoreapp3.1/TulipLuxury.Models.deps.json
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/bin/Debug/netcoreapp3.1/TulipLuxury.Models.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/bin/Debug/netcoreapp3.1/TulipLuxury.Models.pdb
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.csproj.AssemblyReference.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.AssemblyInfoInputs.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.AssemblyInfo.cs
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.csproj.CoreCompileInputs.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Models/obj/Debug/netcoreapp3.1/TulipLuxury.Models.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ContractsRepo\" />
+    <None Remove="ServicesRepos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ContractsRepo\" />
+    <Folder Include="ServicesRepos\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TulipLuxury.Helpers\TulipLuxury.Helpers.csproj" />
+    <ProjectReference Include="..\TulipLuxury.ViewModel\TulipLuxury.ViewModel.csproj" />
+    <ProjectReference Include="..\TulipLuxury.Models\TulipLuxury.Models.csproj" />
+  </ItemGroup>
+</Project>

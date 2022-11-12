@@ -1,0 +1,10 @@
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.csproj.AssemblyReference.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.AssemblyInfoInputs.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.AssemblyInfo.cs
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.csproj.CoreCompileInputs.cache
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/bin/Debug/netcoreapp3.1/TulipLuxury.Helpers.deps.json
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/bin/Debug/netcoreapp3.1/TulipLuxury.Helpers.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/bin/Debug/netcoreapp3.1/TulipLuxury.Helpers.pdb
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.dll
+/Users/thebluehood/Desktop/DecagonC#/TulipLuxury8/TulipLuxury.Helpers/obj/Debug/netcoreapp3.1/TulipLuxury.Helpers.pdb
